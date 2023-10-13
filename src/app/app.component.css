@@ -1,0 +1,21 @@
+
+img{
+    width: 90vw;
+    height: 40vw;
+}
+div{
+    padding: 3vw;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    position: absolute;
+    width: 30px;
+    height: 40px;
+    top: 20vw;
+}
+
+#button2{
+    right: 6.4vw;
+}
